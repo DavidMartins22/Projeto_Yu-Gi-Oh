@@ -108,31 +108,31 @@ body{
 }
 
 .fundo-1{
-    background: url(../imagens/fundo-1.jpg);
+    background: url(../imagens/fundo-1.jpg) no-repeat;
 }
 
 .fundo-2{
-    background: url(../imagens/fundo-2.jpg);
+    background: url(../imagens/fundo-2.jpg)  no-repeat;
 }
 
 .fundo-3{
-    background: url(../imagens/fundo-3.jpg);
+    background: url(../imagens/fundo-3.jpg) no-repeat;
 }
 
 .fundo-4{
-    background: url(../imagens/fundo-4.jpg);
+    background: url(../imagens/fundo-4.jpg) no-repeat;
 }
 
 .fundo-5{
-    background: url(../imagens/fundo-5.jpg);
+    background: url(../imagens/fundo-5.jpg) no-repeat;
 }
 
 .fundo-6{
-    background: url(../imagens/fundo-6.jpg);
+    background: url(../imagens/fundo-6.jpg) no-repeat;
 }
 
 .fundo-7{
-    background: url(../imagens/fundo-7.jpg);
+    background: url(../imagens/fundo-7.jpg) no-repeat;
 }
 
 .btn-seta{
