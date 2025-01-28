@@ -1,7 +1,7 @@
-@media(max-width: 760px){
+@media(max-width: 768px){
     body{
         background-position: center;
-        padding: 0;
+        padding: 0 15px;
     }
 
     .slider{
