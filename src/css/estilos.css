@@ -173,7 +173,3 @@ body::-webkit-scrollbar-track{
 ::-webkit-scrollbar-thumb:hover {
     background: #c08057;
 }
-
-.esconder{
-  display: none;
-}
